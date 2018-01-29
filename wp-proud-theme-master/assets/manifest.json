@@ -1,0 +1,51 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "proud.css": {
+      "files": [
+        "styles/proud.scss"
+      ],
+      "main": true
+    },
+    "proud-vendor.css": {
+      "files": [
+        "styles/proud-vendor.scss"
+      ]
+    },
+    "editor.css": {
+      "files": [
+        "styles/editor.scss"
+      ]
+    },
+    "ie9-and-below.css": {
+      "files": [
+        "styles/ie9-and-below.scss"
+      ]
+    },
+    "customizer.js": {
+      "files": [
+        "scripts/customizer.js"
+      ]
+    },
+    "modernizr.js": {
+      "files": [
+        "scripts/modernizr.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://proud.local/",
+    "proudSCSS": {
+      "nav-fixed-bottom-max": "1200px",
+      "nav-fixed-top-min": "1201px"
+    }
+  }
+}

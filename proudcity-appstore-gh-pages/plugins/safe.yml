@@ -1,0 +1,60 @@
+name: safe
+default: true
+icon: fa-lock
+title: Safe
+teaser: Continuous free software upgrades, secure cloud-based hosting, backups, disaster recovery and HTTPS encryption.
+body: |
+  <h2>Hosting</h2>
+  </div>
+  <ul>
+      <li>99.9% monthly average up-time</li>
+      <li>Containerized hosting with <a href="https://kubernetes.io/">Kubernetes</a> on <a href="https://cloud.google.com/">Google Cloud</a></li>
+  </ul>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Security &amp; compliance</h2>
+  </div>
+  <ul>
+      <li><a href="https://proudcity.com/https">HTTPS</a> SSL encryption (<a href="https://letsencrypt.org/">Let’s Encrypt</a>)</li>
+      <li>Secure user storage authentication (<a href="https://auth0.com/">Auth0</a>)</li>
+      <li><a href="https://www.pcisecuritystandards.org/">PCI Compliance</a> for credit card processing</li>
+      <li>Additional compliance certifications available upon request</li>
+  </ul>
+  <a href="https://proudcity.com/category/topics/security/">ProudCity security updates →</a>
+
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Software updates</h2>
+  </div>
+  <ul>
+      <li>Updates to both the software and operating system are released to the platform every two weeks.</li>
+      <li>Serious vulnerabilities are released immediately as hotfixes.</li>
+  </ul>
+  <a href="https://proudcity.com/category/releases/">ProudCity Releases →</a>
+
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Back-up and disaster recovery</h2>
+  </div>
+  <ul>
+      <li>Nightly database/files back-ups stored in secondary data center for one week</li>
+      <li>Weekly back-ups (every Sunday) stored for five weeks</li>
+      <li>Manual back-ups serviced via customer support ticket</li>
+      <li>Continuous monitoring for vulnerabilities (code, administrator access, backup verification)</li>
+      <li>Third-party monitoring service pings website up-time every five minutes with a 30-second threshold</li>
+  </ul>
+  </div>
+  </div>
+  </div>
+more: https://proudcity.com/safe
+included: web

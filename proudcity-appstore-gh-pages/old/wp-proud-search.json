@@ -1,0 +1,27 @@
+{  
+   "name":"Search",
+   "slug":"wp-proud-search",
+   "tag": "proudcity",
+   "version":"1.0.0",
+   "author":"<a href=\"https:\/\/proudcity.com\">ProudCity<\/a>",
+   "author_profile":"\/\/profiles.wordpress.org\/proudcity",
+   "added":"2016-03-01",
+   "options": [
+   ],
+   "homepage":"",
+   "sections":{  
+      "description":"<p>Interactive search overlay with autosuggest</p>",
+      "installation":"<p></p>"
+   },
+   "short_description":"Interactive search overlay with autosuggest",
+   "download_link":"https://github.com/proudcity/wp-proud-search/archive/1.0.0.zip",
+   "donate_link":"",
+   "banners":{  
+      "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
+      "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
+   },
+   "icons":{  
+      "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/search.png",
+      "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/search.png"
+   }
+}

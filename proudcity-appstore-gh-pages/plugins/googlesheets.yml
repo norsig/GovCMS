@@ -1,0 +1,17 @@
+name: googlesheets
+slug: gravityformszapier
+image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googlesheets.png"
+title: Google Sheets
+teaser: Save new Gravity Forms submissions to a Google Sheets spreadsheet with Zapier
+body: |
+  <p>Need to save your Gravity Forms submissions to a Google Sheets spreadsheet so you can easily share
+  results with teammates and other collaborators outside of Gravity Forms? This Gravity Forms-Google Sheets
+  <a href="https://zapier.com/" target="blank">Zapier</a> integration makes it easy to do just that.</p>
+  <h3>How it works</h3>
+  <ol>
+  <li>Choose an existing or new Gravity Form and Google Spreadsheet</li>
+  <li>Whenever someone fills out that form, Zapier instantly copies the new record into your Google Sheets spreadsheet</li>
+  </ol>
+  <p>You'll be able to choose which Gravity Forms fields are pushed to your spreadsheet, and which column they end up in.</p>
+contact: true
+more: https://zapier.com/zapbook/zaps/13/send-gravity-forms-submissions-to-a-google-spreadsheet/

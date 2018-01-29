@@ -1,0 +1,138 @@
+name: search
+slug: elasticpress
+icon: fa-search
+title: Search Plus
+teaser: Upgraded version includes multi-site search (domains / subdomains), Granicus
+  integration and more.
+body: |
+  ProudCity Search is a robust, type-ahead search that gives visitors instant
+  access to all of your online government content.
+  <div>
+  <div data-bg-url="">
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">ProudCity Search is a robust, type-ahead search that gives visitors instant access to all of your online government content.</h3>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/search.gif" alt="ProudCity Search" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Features</h2>
+  </div>
+  <div></div>
+  <div></div>
+  <ul>
+   	<li>
+  <div>Predictive search</div></li>
+   	<li>
+  <div>Searchable FAQs, posts, pages, events, contacts, documents and more</div></li>
+   	<li>
+  <div>Category filters</div></li>
+   	<li>
+  <div>Powered by <a href="https://www.elastic.co/products/elasticsearch">Elasticsearch</a></div></li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2015/12/search.gif" alt="ProudCity Search" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/Screen-Shot-2017-04-10-at-8.45.40-PM-1.png" alt="ProudCity Search" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Granicus integration</h2>
+  </div>
+  <div></div>
+  <div></div>
+  Seamless integration with Granicus-powered council meeting management software.
+
+  * included with ProudCity Search Plus
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Search Plus</h2>
+  </div>
+  <div></div>
+  <div></div>
+  Premium upgrade search includes:
+  <ul>
+   	<li>
+  <div>multi-site search (department domains / subdomains)</div></li>
+   	<li>
+  <div>Granicus integration</div></li>
+   	<li>
+  <div>and more</div></li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/search-kettering-1024x512.png" alt="ProudCity Search" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div></div>
+more: https://proudcity.com/search
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/search.gif
+contact: true
+pricePerResident: 0.001

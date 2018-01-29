@@ -1,0 +1,109 @@
+
+// Proud Grid settings
+$main-sm-columns:       12;
+$sidebar-sm-columns:    3;
+
+$page-section-spacing: 50px;
+
+
+
+
+// Primary (default blue)
+$brand-primary:               #0071bc!default;
+$brand-primary-darker:        #205493!default;
+$brand-primary-darkest:       #112e51!default;
+
+// Info, AKA "primary alt" (default lighter blue)
+$brand-info:                  #5bc0de!default;
+$brand-primary-alt:           $brand-info!default;
+$brand-primary-alt-dark:      #00a6d2!default;
+$brand-primary-alt-darkest:   #046b99!default;
+$brand-primary-alt-light:     #9bdaf1!default;
+$brand-primary-alt-lightest:  #e1f3f8!default;
+
+
+// Grays
+$gray-base:                   #a4a4a4;
+$gray-darker:                 lighten($gray-base, 13.5%) !default;
+$gray-dark:                   #323a45!default;
+$gray:                        #5b616b!default;
+$gray-light:                  #aeb0b5!default;
+$gray-lighter:                #d6d7d9!default;
+$gray-lightest:               #f1f1f1!default;
+
+
+
+
+//** Background color for `<body>`.
+$body-bg:               #fff !default;
+//** Global text color on `<body>`.
+$text-color:            $gray-dark !default;
+
+//** Global textual link color.
+$link-color:            $brand-primary !default;
+//** Link hover color set via `darken()` function.
+$link-hover-color:      darken($link-color, 15%) !default;
+//** Link hover decoration.
+$link-hover-decoration: underline !default;
+
+
+//== Typography
+//
+//## Font, line-height, and color for body text, headings, and more.
+
+$font-family-sans-serif:  'Open Sans', Helvetica, Arial, sans-serif;
+$font-family-serif:       "Merriweather";
+//** Default monospace fonts for `<code>`, `<kbd>`, and `<pre>`.
+$font-family-monospace:   Menlo, Monaco, Consolas, "Courier New", monospace !default;
+$font-family-base:        $font-family-serif;
+
+$font-size-base:          16px !default;
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+
+//** By default, this inherits from the `<body>`.
+$headings-font-family:    $font-family-serif;
+$headings-font-weight:    900 !default;
+$headings-line-height:    1.1 !default;
+$headings-color:          $gray-base!default;
+
+
+$font-size-h1:            36px!default; 
+$font-size-h2:            30px!default; 
+$font-size-h3:            24px!default; 
+$font-size-h4:            20px!default; 
+$font-size-h5:            16px!default;
+$font-size-h6:            16px!default; 
+
+$font-color-h1:            $gray-base!default; 
+$font-color-h2:            $gray-base!default; 
+$font-color-h3:            $gray-base!default; 
+$font-color-h4:            $gray-base!default; 
+$font-color-h5:            $gray-base!default;
+$font-color-h6:            $gray-base!default;
+
+$font-weight-h1:            600!default;
+$font-weight-h2:            100!default;
+$font-weight-h3:            100!default;
+$font-weight-h4:            100!default; 
+$font-weight-h5:            100!default;
+$font-weight-h6:            600!default;
+
+$font-line-height-h1:            1.1!default; 
+$font-line-height-h2:            1.2!default; 
+$font-line-height-h3:            1.2!default; 
+$font-line-height-h4:            1.5!default; 
+$font-line-height-h5:            1.4!default;
+$font-line-height-h6:            1.4!default;
+
+
+//** Unit-less `line-height` for use in components like buttons.
+$line-height-base:        1.5 !default; // 20/14
+//** Computed "line-height" (`font-size` * `line-height`) for use with `margin`, `padding`, etc.
+$line-height-computed:    floor(($font-size-base * $line-height-base)) !default; // ~20px
+
+//** By default, this inherits from the `<body>`.
+$headings-font-family:    $font-family-sans-serif !default;
+$headings-font-weight:    900 !default;
+$headings-line-height:    1.1 !default;
+$headings-color:          $gray-base!default;

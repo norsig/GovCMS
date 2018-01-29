@@ -1,0 +1,87 @@
+body.single-item.groups #buddypress div#item-header #item-header-cover-image #item-actions {
+    padding-top: 5px !important;
+}
+
+// Header name, title, etc
+#buddypress #item-header-cover-image #item-buttons {
+    margin-bottom: 5px;
+}
+#buddypress div#item-header div#item-meta {
+    margin-top: 0;
+}
+
+.buddypress-group-home {
+    margin: 1em 0;
+}
+
+#buddypress {
+    select {
+        padding: 6px 12px;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #5b616b;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+    }
+    
+    #groups_search {
+        height: 30px;
+        padding: 6px 12px;
+        font-size: 16px;
+        border: 1px solid #ccc;
+        border-radius: 2px;
+        background-color: #fff;
+    }
+    
+    .button,
+    .group-button,
+    input[type="submit"]{
+        border-radius: 2px;
+        height: 35px;
+        padding: 6px 12px;
+        font-size: 16px
+    }
+    
+}
+
+
+
+// View profile
+.bbp-user-page {
+    #buddypress {
+        div#item-header #item-header-cover-image #item-header-content {
+            margin-top: -65px;
+        }
+    }
+    
+    
+    .profile{
+        
+        h2 {
+            display: none;
+        }
+        
+        table.profile-fields {
+            td.label {
+                color: #707070 !important;
+                display: table-cell;
+                border: none !important;
+                text-align: left;
+            }
+        }
+    }
+    
+}
+
+// Edit profile
+#profile-edit-form {
+    h2{
+        display: none;
+    }
+    
+    legend {
+        font-size: 1em;
+    }
+}
+

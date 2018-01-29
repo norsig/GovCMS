@@ -1,0 +1,9 @@
+name: constantcontact
+slug: gravityformsconstantcontact
+image: https://tamretail.com/UserDefinedImages/PartnerConstantContactLogo.jpg
+title: Constant Contact
+teaser: Constant Contact is a mass email provider.
+body: |
+  Automatically add form submissions to Constant Contact email lists.
+contact: true
+repo: https://github.com/katzwebservices/Gravity-Forms-Constant-Contact-Add-on.git

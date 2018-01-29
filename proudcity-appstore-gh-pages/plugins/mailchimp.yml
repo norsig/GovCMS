@@ -1,0 +1,14 @@
+name: mailchimp
+slug: gravityformsmailchimp
+image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
+title: Mailchimp
+teaser: MailChimp provides email marketing for more than 15 million people globally and is dead-simple to use.
+body: |
+  Automatically add form submissions to MailChimp email lists and more.
+guide: https://proudcity.zendesk.com/hc/en-us/articles/216379847-Adding-MailChimp-to-your-website
+price: Free up to lists of 1000. Paid plans start at $10/mo.
+options:
+- key: mailchimp.apiKey
+  wp: gravityformsaddon_gravityformsmailchimp_settings.apiKey
+  label: MailChimp API Key
+  help: ""

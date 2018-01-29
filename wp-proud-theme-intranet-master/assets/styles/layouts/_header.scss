@@ -1,0 +1,125 @@
+body.proud-intranet {
+  padding-top: 47px !important;
+  
+  .container>.below {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .below,
+  .proud-intranet-logo {
+    border-top: none;
+    margin: 15px 20px 0 0;
+  }
+  .proud-intranet-logo img {
+    width: auto;
+    max-height: 45px;
+  }
+  
+  .alert-banner {
+    position: relative !important;
+    top: auto;
+    margin-top: 0 !important;
+  }
+  
+  .groups-header {
+    position: relative;
+    
+    .desc-wrap {
+      background: none;
+      border: none;
+      max-width: 600px;
+      position: absolute;
+      top: -70px;
+      right: 0;
+      
+      .group-description {
+        background: none;
+        border: none;
+        box-shadow: none;
+        text-align: right;
+        padding: 0;
+      }
+    }
+  }
+  
+  .main-navs.groups-nav {
+    
+    li.selected a {
+      border-radius: 3px !important;
+    }
+    
+    li.selected a {
+      background-color: $gray-lightest;
+    }
+  }
+  
+  .bp-navs.bp-subnavs {
+    background-color: $gray-lightest;
+    padding: 5px;
+  }
+  
+  #buddypress #item-header-cover-image,
+  #buddypress div#item-header #item-header-cover-image #item-actions,
+  #item-header {
+    margin-bottom: 0 !important;
+  }
+  
+  #item-body {
+    margin-top: 10px;
+  }
+  .buddypress-wrap:not(.bp-vertical-navs) .main-navs.single-screen-navs > ul > li:first-child a {
+    padding-left: 10px;
+  }
+  
+  .buddypress-wrap .bp-navs li.selected a, .buddypress-wrap .bp-navs li.selected a:focus, .buddypress-wrap .bp-navs li.selected a:hover, .buddypress-wrap .bp-navs li.current a, .buddypress-wrap .bp-navs li.current a:focus, .buddypress-wrap .bp-navs li.current a:hover,
+  .buddypress-wrap .bp-navs li:not(.current) a:focus, .buddypress-wrap .bp-navs li:not(.current) a:hover, .buddypress-wrap .bp-navs li:not(.selected) a:focus, .buddypress-wrap .bp-navs li:not(.selected) a:hover {
+    border-radius: 3px;
+  }
+  
+  .bp-list li .item .list-title {
+    font-weight: bold;
+  }
+  
+  #buddypress {
+    
+    #item-body {
+      margin-top: 0 !important;
+    }
+    
+    div.item-list-tabs ul li {
+      a {
+        padding: 8px 10px;
+      }
+      
+      &.current a,
+      &.selected a {
+        color: $black;
+      }
+    }
+  
+    div.item-list-tabs#subnav {
+      background-color: $gray-lightest;
+      margin-top: 0;
+      
+      li a {
+        padding: 8px 15px;
+      }
+      
+      input[type="text"],
+      select {
+        margin: 3px 5px;
+      }
+  
+      li.current a,
+      li.selected a {
+        background-color: $gray-light;
+      }
+    }
+    
+  }
+  
+  
+  
+  
+  
+}

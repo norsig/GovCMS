@@ -1,0 +1,12 @@
+// Init styles
+// ---------------------------
+
+@import "loaders/load-vendor";
+
+// Local Styles
+// ---------------------------
+
+@import "common/global";
+@import "layouts/header";
+@import "layouts/footer";
+@import "layouts/pages";

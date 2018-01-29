@@ -1,0 +1,17 @@
+name: govready
+type: partner
+image: //proudcity.github.io/proudcity-appstore/plugins/icons/govready.png
+title: GovReady
+teaser: A self-service portal to help teams build and operate compliant IT systems.
+body: |
+  GovReady’s software helps small to mid-size companies sell their software to government by revolutionizing
+  preparation of compliance artifacts. Stop struggling with 450 page documents. GovReady guides your team
+  step-by-step through FISMA’s NIST Risk Management Framework Authorization and Accreditation (A&A). Learn
+  security for your system as our apps generate your policies, plans, and evidence to impress your auditors.
+
+  GovReady enables developers to select “apps” from a compliance store that interact to automatically assemble
+  complete A&A packages. Apps represent technical components and organization processes. GovReady’s open
+  source Expert System uses the apps to interactively teach security and ask simple questions about your
+  software and system. As your team collaboratively answers questions, the Expert System analyzes compliance
+  and maintains human and machine-readable versions of your System Security Plan and compliance artifacts.
+contact: Contact us to get started

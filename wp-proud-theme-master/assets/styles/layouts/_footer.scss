@@ -1,0 +1,137 @@
+
+.full-width-container ~ .footer-actions {
+  margin-top: 0;
+}
+
+.footer-actions {
+
+  .nav {
+    margin-bottom: 0;
+    width: 100%;
+  }
+
+  // if gform in dropdown
+  ul.dropdown-menu {
+    .gform_wrapper {
+      margin: 0;
+      max-width: 100%;
+    }
+
+    .gform_footer {
+      padding: 0;
+    }
+  }
+
+  li.gform_widget {
+    margin-left: 15px; // @todo: use variables to get this
+    width: 100%;
+    color: $white;
+
+    .gform_wrapper {
+      padding-top: 7px !important;
+      max-width: 100%;
+    }
+
+    @media (min-width: $screen-md-min) {
+      float: right;
+      padding-top: 1px; 
+      width: auto;
+    }
+
+    div,
+    ul,
+    li,
+    label {
+      display: inline-block;
+      clear: none;
+      margin: 0 !important;
+      padding: 0 !important;
+      width: auto !important;
+    }
+
+    label {
+      padding-left: 10px !important;
+    }
+
+    input {
+      width: 100% !important;
+      font-size: 1em;
+    }
+
+    input.button {
+      margin-top: -3px;
+    }
+
+    label,
+    h4 {
+      color: $white;
+      font-size: 1em;
+      font-weight: normal;
+      margin-right: 10px;
+      display: block;
+
+      @media (min-width: $screen-md-min) {
+        display: inline-block;
+      }
+    }
+
+    .gfield_required {
+      display: none;
+    }
+  }
+}
+
+// For the proudbar
+.page-footer {
+
+  h4 {
+    margin-top: 0;
+  }
+
+  .gform_wrapper {
+    .gform_footer {
+      padding: 0;
+    }
+
+    .gfield_required {
+      display: none;
+    }
+  }
+}
+
+// Footer logo
+
+@include respond($md-up) { 
+  .pane-page-logo {
+    img {
+      max-height: 100px;
+    }
+  }
+}
+
+
+
+// @todo: improve this.
+// See https://waffle.io/proudcity/wp-proudcity/cards/56b53102e50851680029551f
+.gform_ajax_spinner {
+  //-webkit-animation: fa-spin 2s infinite linear;
+  //animation: fa-spin 2s infinite linear;
+  position: absolute;
+  //width: 0;
+  background: $white;
+  border-radius: 2px;
+  padding: 5px !important;
+  margin-left: 5px;
+
+  /*
+  &:before {
+    content: "\f110";
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    position: absolute;
+  }
+  */
+}

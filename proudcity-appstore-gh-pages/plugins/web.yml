@@ -1,0 +1,275 @@
+name: wp-proud-actions-app
+default: true
+icon: fa-globe
+title: Web
+teaser: ProudCity is a software-as-a-service platform that lets governments easily launch and manage digital operations all in one place.
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/07/Optimized-hero-1.jpg
+body: |
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Mobile-friendly websites</h3>
+  </div>
+  Compatible with all devices:
+  <ul>
+   	<li>Smartphones</li>
+   	<li>Tablets</li>
+   	<li>Laptops/desktops</li>
+   	<li>TVs</li>
+   	<li>Kiosks</li>
+  </ul>
+  <div>Calendar</div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Manage events</li>
+   	<li>Search and filter by type</li>
+   	<li>Save to personal calendars (iCalendar, Google, Outlook, Yahoo!)</li>
+   	<li>Google Maps directions</li>
+   	<li>Share to social media</li>
+  </ul>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div> Directory</div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Filter by agency, councils, elected officials</li>
+   	<li>People profile pages</li>
+   	<li>Contact email, phone, social media</li>
+   	<li><a href="https://example.proudcity.com/contact/">See example →</a></li>
+  </ul>
+  <div> Search</div>
+  </div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Predictive search</li>
+   	<li>Multi-site search</li>
+   	<li>Granicus integration</li>
+   	<li><a href="https://proudcity.com/search">ProudCity Search →</a></li>
+  </ul>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div> Answers</div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Frequently asked questions</li>
+   	<li>Filter by category</li>
+   	<li><a href="https://example.proudcity.com/#/city/answers">See example →</a></li>
+   	<li><a title="Watch demo" href="https://www.youtube.com/watch?v=rGPs8nPEA4E" target="_self">Watch demo</a></li>
+  </ul>
+  </div>
+  </div>
+  <div> Content management</div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Add/edit/delete pages, posts, menus, images, videos</li>
+   	<li>Information architecture management</li>
+   	<li>News/blogs</li>
+   	<li>Calendars</li>
+   	<li>Job postings</li>
+   	<li><a title="Watch demo" href="https://www.youtube.com/watch?v=v2Hm-XkZ0WY" target="_self">Watch demo</a></li>
+  </ul>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Social</h3>
+  </div>
+  Connect social media feeds to your website for real-time updates:
+  <ul>
+   	<li>Facebook</li>
+   	<li>Twitter</li>
+   	<li>YouTube</li>
+   	<li>Instagram</li>
+   	<li>and more</li>
+  </ul>
+  <div> GIS/maps</div>
+  </div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Interactive services map</li>
+  </ul>
+  </div>
+  </div>
+  <div>Vote</div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+
+  Automated voting information:
+  <ul>
+   	<li>Polling times and locations</li>
+   	<li>Issues and referendums</li>
+   	<li>Political candidate info</li>
+   	<li><a href="https://proudcity.com/vote">ProudCity Vote →</a></li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  <div>
+  <div>
+  <div></div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">SEO</h3>
+  </div>
+  <ul>
+   	<li>Search-engine optimized</li>
+   	<li>Automatic sitemap.xml generation, submitted to Google/Bing</li>
+   	<li>Webmaster tools XML sitemap</li>
+   	<li>Structured HTML mark-up</li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div></div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Newsletter</h3>
+  </div>
+  Email newsletter integrations:
+  <ul>
+   	<li>MailChimp</li>
+   	<li>ConstantContact</li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div></div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Analytics</h3>
+  </div>
+  Administrative dashboard access to web analytics (Google Analytics):
+  <ul>
+   	<li>Pageviews</li>
+   	<li>Visitor traffic</li>
+   	<li>and more</li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div>Data-driven</div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <ul>
+   	<li>Open application programming interface (API)</li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div>Accessible</div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  Designed to meet ADA standards and requirements.
+  <div> Customize</div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  Manage the appearance of your website branding:
+  <ul>
+   	<li>Colors</li>
+   	<li>Photos</li>
+   	<li>Graphics</li>
+   	<li>Fonts</li>
+   	<li>Page templates</li>
+   	<li>Drag and drop customization</li>
+  </ul>
+  <div> Translation</div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+
+  Built-in translation for more than 100 languages:
+  <ul>
+   	<li>Spanish</li>
+   	<li>French</li>
+   	<li>Chinese</li>
+   	<li>and more</li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  <div>
+  <div> User roles/permissions</div>
+  <div>
+  <div data-bg-url="">
+
+  Internal users have administrative access to content based on their respective roles:
+  <ul>
+   	<li>Manager</li>
+   	<li>Publisher</li>
+   	<li>Author</li>
+  </ul>
+  <div>Integrations</div>
+  </div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  Interoperable with a growing list of third-party services:
+  <ul>
+   	<li>Stripe</li>
+   	<li>Romulus</li>
+   	<li>SeeClickFix</li>
+   	<li>MailChimp</li>
+   	<li>Widget embedding</li>
+   	<li>and more</li>
+  </ul>
+  <a href="https://proudcity.com/marketplace">ProudCity Marketplace →</a>
+
+  </div>
+  </div>
+more: https://proudcity.com/features

@@ -1,0 +1,194 @@
+
+$gform-container-margin: 20px;
+
+// Gform additional width weirdness
+
+.ginput_container {
+  max-width: 100%;
+}
+
+.gform_wrapper .gform_body {
+  max-width: 100%;
+
+  ul.gform_fields li.gfield {
+    padding-right: 0;
+  }
+}
+
+// Normal Form items
+
+.gform_wrapper .gform_body ul li.gfield {
+  margin-bottom: 0;
+
+  .ginput_container {
+    margin-bottom: $gform-container-margin;
+  }
+}
+
+.gform_wrapper .gform_body .top_label .gfield_label {
+  margin-top: 0;
+  margin-bottom: 0.25em;
+  font-weight: 700;
+  font-size: inherit;
+  border-bottom: none;
+
+  // Description before input, remove margin
+  & + .gfield_description {
+    margin-top: 0;
+    padding-top: 0;
+  }
+}
+
+.gform_wrapper {
+  .ginput_container input[type="text"], .ginput_container select, .ginput_container textarea {
+    height: $input-height-base;
+  }
+}
+
+.gform_wrapper .gform_body .gfield_checkbox li {
+  margin-bottom: 0.35em;
+
+  input {
+    border-top: 0;
+    box-shadow: none;
+    height: auto;
+    margin-top: 0.4em;
+  }
+}
+
+.gform_wrapper .gform_body .gfield_radio {
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  input {
+    height: auto;
+    margin-left: 0.15em;
+    margin-top: 0.4em;
+    
+    &[value="gf_other_choice"] {
+      margin-top: 15px;
+    }
+  } 
+}
+
+.gform_wrapper .gform_body .gform_page_footer .button.gform_previous_button {
+  margin-bottom: 0;
+}
+
+// gforms description margins
+.gform_wrapper .gfield_description {
+  margin-top: -25px;
+  margin-bottom: 25px;
+  font-size: .75em !important;
+
+  li {
+    margin-bottom: 0;
+  }
+}
+
+// table form items (lists)
+.gform_wrapper .gform_body table.gfield_list thead th {
+  font-weight: $regular-weight;
+}
+
+.gform_wrapper .gform_body table.gfield_list td {
+  vertical-align: top;
+}
+
+.gform_wrapper .gform_body table.gfield_list thead th,
+.gform_wrapper .gform_body table.gfield_list td {
+  padding-top: 0;
+}
+
+// Complex form items
+.gform_wrapper .gform_body ul li.gfield {
+  .ginput_complex { 
+    margin-bottom: 0;
+  }
+}
+
+.ginput_complex { 
+  > span {
+    margin-bottom: $gform-container-margin;
+
+    &[class^="ginput_"] {
+      display: block;
+    }
+
+    // Remove padding
+    [type="text"], select, textarea { 
+      & ~ label {
+        margin-bottom: 0;
+      }
+    } 
+  } 
+}
+
+// Time field
+
+.gform_wrapper .gform_body .gfield_time_hour i {
+  margin-top: -30px;
+  margin-right: -3px;
+}
+
+// credit card info
+.gform_wrapper .gform_body .ginput_complex .ginput_cardinfo_right {
+
+  .ginput_card_security_code_icon {
+    position: absolute;
+    left: 50%;
+    margin-left: 6px;
+  }
+}
+
+// Errors
+
+.gform_wrapper.gform_validation_error div.validation_error {
+  padding: $alert-padding!important;
+  margin-bottom: $line-height-computed;
+  border: 1px solid transparent;
+  border-radius: $alert-border-radius;
+  background: transparent;
+  @include alert-variant($alert-danger-bg, $alert-danger-border, $alert-danger-text);
+}
+
+.gform_wrapper li.gfield.gfield_error {
+  border: 0!important;
+  background: none!important;
+  padding: 0!important;
+
+  & > * {
+    margin-left: 0!important;
+  }
+}
+
+.gform_wrapper li.gfield.gfield_error .validation_message {
+  padding: $alert-padding!important;
+  margin-bottom: $line-height-computed;
+  margin-top: -($line-height-computed/2);
+  border: 1px solid transparent;
+  border-radius: $alert-border-radius;
+  @include alert-variant($alert-danger-bg, $alert-danger-border, $alert-danger-text);
+}
+
+@include respond($sm-up) {
+  // Gravity forms in content
+  .wrap {
+    // restrict form width if full width
+    .main > div > .panel-grid > .panel-row-style > div > .widget-proud-gravity-form {
+      max-width: 80%;
+    }
+  }
+}
+
+
+@include respond($md-up) {
+  // Gravity forms in content
+  .wrap {
+    // restrict form width if full width
+    .main > div > .panel-grid > .panel-row-style > div > .widget-proud-gravity-form {
+      max-width: 70%;
+    }
+  }
+}

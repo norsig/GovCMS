@@ -1,0 +1,13 @@
+{  
+   "name":"Events",
+   "short_description":"Events Manager",
+   "tag": "proudcity",
+   "icons":{  
+      "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/calendar.png",
+      "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/calendar.png"
+   },
+   "banners":{  
+      "high":"https://ps.w.org/events-manager/assets/banner-772x250.png?rev=1039078",
+      "low":"https://ps.w.org/events-manager/assets/banner-772x250.png?rev=1039078"
+   }
+}

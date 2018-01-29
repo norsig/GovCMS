@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>WordPress.com REST API Proxy Me Test Page</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+  <body>
+    <script src="../dist/wpcom-proxy-request.js"></script>
+    <script>
+      WPCOM.proxy({
+        metaAPI: { accessAllUsersBlogs: true }
+      }, function(err) {
+        if (err) throw err;
+        console.log('proxy now running in "access all user\'s blogs" mode');
+      });
+
+      // ensure that node.js-style callback syntax works
+      var req = WPCOM.proxy('/me', function(err, res){
+        if (err) throw err;
+        console.log(res);
+
+        var d = document.createElement('pre');
+        d.innerHTML = JSON.stringify(res, null, 2);
+        document.body.appendChild(d);
+      });
+
+      console.log(req);
+    </script>
+  </body>
+</html>

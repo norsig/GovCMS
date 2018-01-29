@@ -1,0 +1,167 @@
+name: forms
+slug: gravityforms
+default: true
+icon: fa-file-text-o
+title: Forms
+teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/form-builder.gif
+body: |
+  <div data-bg-url="">
+  <div data-bg-url="">
+  <div data-bg-url="">
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h1 data-fontsize="50" data-lineheight="65">Forms</h1>
+  </div>
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">ProudCity Forms makes it easy for governments to create and manage secure, mobile-friendly online forms.</h3>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <div><img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/proudcity-forms.gif" alt="ProudCity Forms" width="" height="" /></div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Features</h2>
+  </div>
+  <ul>
+   	<li>
+  <div>Drag-and-drop, WYSIWYG form builder</div></li>
+   	<li>
+  <div>Forms manager dashboard</div></li>
+   	<li>
+  <div>Create, edit, preview, delete, duplicate forms</div></li>
+   	<li>
+  <div>Custom and pre-made fields
+  (name, address, credit card info, etc.)</div></li>
+   	<li>
+  <div>Radio buttons, checkboxes, text fields, dropdowns and more</div></li>
+   	<li>
+  <div>CAPTCHA</div></li>
+   	<li>
+  <div>File uploads</div></li>
+   	<li>
+  <div>Download form submissions to .xls/.csv</div></li>
+   	<li>
+  <div>Create confirmation pages</div></li>
+   	<li>
+  <div>Email confirmations/notifications to internal/external users</div></li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url=""><img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/form-features.gif" alt="ProudCity Forms" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Use for</h2>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Payments (fines, tickets)</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/payments-1024x512.png" alt="Payments (fines, tickets)" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Permits</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/permits-1024x512.png" alt="Permits" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Issue reporting</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/issue-reporting-1024x512.png" alt="Issue reporting" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Job applications</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/job-applications-1024x512.png" alt="Job applications" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Subscriptions (alerts, newsletters)</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/newsletters-1024x512.png" alt="Subscriptions (alerts, newsletters)" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">Public record requests</h3>
+  </div>
+  <img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/public-records-1024x514.png" alt="Public record requests" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Build and manage</h2>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url=""><img title="" src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/form-builder.gif" alt="ProudCity Form Builder" width="" height="" />
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  </div>
+  </div>
+  </div>
+more: https://proudcity.com/forms
+included: web

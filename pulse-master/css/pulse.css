@@ -1,0 +1,67 @@
+.powered-by, .navbar.navbar-default, .navbar-default {
+	background-color: #0071bc !important;
+	color: #fff;
+}
+.powered-by img {
+	max-width: 100px;
+}
+.powered-by p {
+	font-weight: 300;
+	font-size: 15px;
+	margin: 0;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.jumbotron {
+	padding-bottom: 70px;
+	padding-top: 70px;
+}
+, .btn-primary {
+	color: #205493 !important;
+	background-color: #fff !important;
+	background: #fff !important;
+}
+.jumbotron:not(.jumbotron-image) {
+	background-color: #205493 !important;
+}
+.jumbotron .h1, .jumbotron .h2, .jumbotron h1, .jumbotron h2 {
+	font-size: 54px;
+}
+.jumbotron p {
+	color: #fff;
+	padding: 1em 0;
+}
+h2, h3, h4 {
+	font-weight: 800;
+}
+.guide {
+	padding-bottom: 20px;
+}
+.fa-1 {
+	font-size: 100px;
+}
+.yes {
+	color: green;
+}
+.no {
+	color: red;
+}
+.question {
+	color: black;
+}
+hr {
+	border-top: 1px solid #f1f1f1;
+}
+mark {
+	background: #fff1d2;
+}
+.what-you-can-do p, .what-you-can-do li {
+	font-size: 18px;
+}
+.letter {
+	padding: 20px;
+	background: #f1f1f1;
+	border-radius: 5px;
+	margin-bottom: 1.5em;
+	margin-top: 1.5em;
+}

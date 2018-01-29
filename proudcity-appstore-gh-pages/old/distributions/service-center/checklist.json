@@ -1,0 +1,35 @@
+[ 
+  {
+    "key": "editor",
+    "title": "Add local services",
+    "icon": "fa-map-marker",
+    "link": null,
+    "time": "1 hour",
+    "description": "Start by making your local services map more useful.  Add information about garbage collection, street sweeping and school districts and more. See the <a href='https://www.cityofsanrafael.org/#/city/local/location/37.9842478,-122.55416049999997'>City of San Rafael</a> for a good example."
+  },
+  {
+    "key": "answers",
+    "title": "Add answers",
+    "icon": "fa-list-alt",
+    "link": "\/wp-admin\/edit.php?post_type=question",
+    "video": "rGPs8nPEA4E",
+    "time": "5 hours",
+    "description": "Build out a directory of your most commonly asked questions. We have collected a list of the most common categories from analytics collected from 100 large cities across america to help get you started.  Your answers will be Search Engine Optimized, so as you start adding questions you will build searchable content that visitors can use when they visit your Service Center, or by searching Google."
+  },
+  {
+    "key": "payments",
+    "title": "Set up payments",
+    "icon": "fa-credit-card",
+    "link": "\/wp-admin\/edit.php?post_type=payment",
+    "time": "2 hours",
+    "description": "ProudCity Payments takes the pain out of accepting payments for taxes, tickets, and registration fees online. Our pricing is upfront and reasonable: 3% + $0.20 per transaction, no matter the card type.  We have partnered with <a href='https://stripe.com' target='_blank'>Stripe</a>, a leading payment gateway to ensure that transactions are reliable and secure.  Our form builder lets you build custom forms and complex workflows to help make your internal processes more efficient."
+  },
+  {
+    "key": "issues",
+    "title": "Add issue reporting",
+    "icon": "fa-exclamation-triangle",
+    "link": "\/wp-admin\/edit.php?post_type=issue",
+    "time": "1 hour",
+    "description": "Make it easy for your citizens to report a pothole, fire hazards, or problem traffic signals.  You can choose to integrate with existing industry-leading tools like SeeClickFix and Romulus, or you can build out custom forms and notification worksflows using our form builder."
+  }
+]

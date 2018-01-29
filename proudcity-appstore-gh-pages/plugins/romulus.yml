@@ -1,0 +1,9 @@
+name: romulus
+slug: romulus
+title: Romulus
+type: integration
+image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
+teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
+body:
+contact: true
+more:

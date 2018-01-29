@@ -1,0 +1,38 @@
+// Init styles
+// ---------------------------
+
+@import "loaders/load-local";
+
+// Patterns
+// ---------------------------
+@import "pattern-scss/wp/admin-menu";
+@import "pattern-scss/wp/search";
+@import "pattern-scss/wp/addtocalendar";
+@import "pattern-scss/wp/widget-proud-jumbotron-header";
+@import "pattern-scss/wp/so-pagebuilder";
+@import "pattern-scss/wp/sidebar";
+
+// Local Styles
+// ---------------------------
+@import "common/global";
+@import "components/buttons";
+@import "components/forms";
+@import "components/grid";
+@import "components/wp-classes";
+@import "layouts/header";
+@import "layouts/toolbar";
+@import "layouts/footer";
+@import "layouts/pages";
+@import "layouts/posts";
+@import "layouts/terms";
+@import "layouts/tinymce";
+@import "layouts/misc";
+@import "layouts/login";
+@import "layouts/dashboard";
+@import "layouts/sidebar-links";
+@import "layouts/gravity-forms";
+@import "layouts/customizer";
+
+@import "modules/so-pagebuilder";
+@import "modules/simple-staff-list";
+@import "modules/popup-maker";

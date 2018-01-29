@@ -1,0 +1,115 @@
+name: servicecenter
+slug: wp-proud-actions-app
+default: true
+icon: fa-mobile-phone
+title: Service Center
+teaser: "Become multi-channel: Facebook page, standalone app, embeddable widget"
+screenshot:
+- https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center.png
+body: |
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h3 data-fontsize="25" data-lineheight="35">“It took us 60 seconds to tie this into Facebook, and we look forward to expanding it to other access points, such as at kiosks at city hall and potentially throughout the city.”</h3>
+  </div>
+  -Rebecca Woodbury, Senior Management Analyst, <a href="https://www.cityofsanrafael.org/">San Rafael, Calif.</a>
+  <div></div>
+  </div>
+  </div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Facebook</h2>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div><a href="https://www.facebook.com/City-of-Kettering-Ohio-Government-170816296316644/app/694991864012669/" target="_self"><img src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/Screen-Shot-2017-03-02-at-4.07.31-PM.png" alt="ProudCity Service Center" width="" height="" /></a></div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+
+  Easily add the ProudCity Service Center to Facebook.
+  <div><a title="View on Facebook" href="https://www.facebook.com/City-of-Kettering-Ohio-Government-170816296316644/app/694991864012669/" target="_self">View on Facebook</a></div>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Standalone</h2>
+  </div>
+  Add your city digital services to a standalone page on your website, or even make it your homepage.
+  <div><a title="View example" href="https://example.proudcity.com/standalone/#/city/answers" target="_self">View example</a></div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div><a href="https://proudcity.com/ProudCity%20Service%20Center" target="_self"><img src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center-standalone.png" alt="ProudCity Service Center" width="" height="" /></a></div>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div><a href="https://proudcity.com/ProudCity%20Service%20Center" target="_self"><img src="https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center-admin.png" alt="ProudCity Service Center" width="" height="" /></a></div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Admin</h2>
+  </div>
+  Easily manage your ProudCity Service Center within your administration dashboard.
+  <ul>
+   	<li>
+  <div>Select preferred services to display</div></li>
+   	<li>
+  <div>Copy/paste widget code, embed anywhere</div></li>
+   	<li>
+  <div>Set up your standalone mobile app</div></li>
+  </ul>
+  <div></div>
+  </div>
+  </div>
+  <div></div>
+  </div>
+  </div>
+  <div>
+  <div>
+  <div>
+  <div data-bg-url="">
+  <div>
+  <h2 data-fontsize="35" data-lineheight="45">Embed</h2>
+  </div>
+  See the ProudCity Service Center widget in action below.
+
+  <iframe src="https://example.proudcity.com/embed" width="300" height="150" data-mce-fragment="1"></iframe>
+
+  </div>
+  </div>
+  </div>
+  </div>
+more: https://proudcity.com/service-center
+admin: "/wp-admin/admin.php?page=service-center"

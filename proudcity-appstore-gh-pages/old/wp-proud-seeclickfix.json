@@ -1,0 +1,27 @@
+{  
+   "name":"SeeClickFix",
+   "slug":"wp-proud-seeclickfix",
+   "tag": "integration",
+   "version":"1.0.0",
+   "author":"<a href=\"https:\/\/proudcity.com\">ProudCity<\/a>",
+   "author_profile":"\/\/profiles.wordpress.org\/proudcity",
+   "added":"2016-03-01",
+   "options": [
+   ],
+   "homepage":"",
+   "sections":{  
+      "description":"<p>Integrate the create issue, issue lookup, and issue map box with <a href='http://seeclickfix.com'>SeeClickFix</a></p>",
+      "installation":"<p></p>"
+   },
+   "short_description":"Integrate the create issue, issue lookup, and issue map box with <a href='http://seeclickfix.com'>SeeClickFix</a>",
+   "download_link":"https://github.com/proudcity/wp-proud-seeclickfix/archive/1.0.0.zip",
+   "donate_link":"",
+   "banners":{  
+      "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
+      "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
+   },
+   "icons":{  
+      "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png",
+      "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png"
+   }
+}

@@ -1,0 +1,23 @@
+body.proudcity-intranet {
+  padding-top: 47px !important;
+  
+  .container>.below {
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .below,
+  .proud-intranet-logo {
+    border-top: none;
+    margin: 15px 0 0 0;
+  }
+  .proud-intranet-logo {
+    width: auto;
+    max-height: 45px;
+  }
+  
+  .alert-banner {
+    position: relative !important;
+    top: auto;
+    margin-top: 0 !important;
+  }
+}

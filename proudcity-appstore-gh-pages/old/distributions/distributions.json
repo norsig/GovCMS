@@ -1,0 +1,6 @@
+[
+  { "name": "ProudCity", "slug": "proudcity", "price": "$0.02" },
+  { "name": "Service Center", "slug": "service-center", "price": "$0.01" },
+  { "name": "Agency", "slug": "proud-agency", "price": "$0.0025" },
+  { "name": "Intranet", "slug": "proud-intranet", "price": "$0.01" }
+]

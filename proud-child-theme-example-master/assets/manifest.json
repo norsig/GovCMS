@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "main.js": {
+      "files": [
+        "scripts/main.js"
+      ],
+      "main": true
+    },
+    "style.css": {
+      "files": [
+        "styles/proud-subtheme.scss"
+      ],
+      "main": true
+    },
+    "ie9-and-below.css": {
+      "files": [
+        "styles/ie9-and-below.scss"
+      ]
+    },
+    "customizer.js": {
+      "files": [
+        "scripts/customizer.js"
+      ]
+    },
+    "jquery.js": {
+      "bower": ["jquery"]
+    }
+  },
+  "config": {
+    "devUrl": "http://localhost:8080/"
+  }
+}

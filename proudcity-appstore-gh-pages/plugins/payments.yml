@@ -1,0 +1,25 @@
+name: payments
+name: gravityformsstripe
+icon: fa-credit-card
+title: Payments
+teaser: PCI compliant payment transactions for permitting, tickets and more.
+screenshot:
+- //proudcity.github.io/proudcity-appstore/plugins/screenshots/payments.png
+body: |
+  <p>Accept payments online without the hassle.  ProudCity Payments is easy to set up --
+    you can start accepting online payments in a couple house: just complete our sign up form,
+    create a form with a payment field in the form builder, and set up email alerts.  Your forms
+    can be customized to include as many fields as you like, including add-on fees.</p>
+
+  <p>Best of all, ProudCity Payments is powered by <a href="https://stripe.com" target="_blank">Stripe</a>, the new
+    standard in online payments.  Stripe handles billions of dollars every year for forward-thinking
+    businesses--and governments--around the world.</p>
+
+  <h2>Highlights</h2>
+  <ul>
+    <li>Pricing: 2.9%  + 30¢ per successful charge</li>
+    <li>Recurring transactions</li>
+    <li>ACH Transactions coming soon</li>
+  </ul>
+contact: true
+price: A flat $0.30 + 2.9% per transaction. No monthly fees.

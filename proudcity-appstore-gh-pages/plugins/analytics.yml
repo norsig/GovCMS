@@ -1,0 +1,49 @@
+name: analytics
+default: true
+image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
+title: ProudCity Analytics
+teaser: Powered by Google Analytics.  Don't just track visitors, track how well you're serving your visitors.
+body: |
+  <p>Track site visits, engagement, popular pages, popular searches and more with the ProudCity Analytics Dashboard.  The
+  Dashboard shows up everytime you log into your site, so all content authors are consistently getting feedback and
+  incorporating it back in to your website</p>
+  <p>All site analytics data is stored in Google Analytics, so you can access comprehensive reports can always be accessed
+  directly from Google Analytics. </p>
+screenshot:
+- //proudcity.github.io/proudcity-appstore/plugins/screenshots/analytics.png
+options:
+- key: google_analytics.tracking_id
+  wp_option: google_analytics
+  label: Tracking ID
+  placeholder: UA-12345678-1
+  help: |
+    <ol>
+      <li>Login to Google Analytics</li>
+      <li>Create a new Account and/or Property, if necessary</li>
+      <li>Click on Admin, select your Account and Property</li>
+      <li>In the Property (middle) column, under Tracking Info, click Tracking Code</li>
+      <li>Copy the Tracking ID. It will typically start with <code>UA-</code></li>
+    </ol>
+- key: google_analytics.view_id
+  label: View ID
+  placeholder: 123456789
+  value_prefix: "ga:"
+  help: |
+    <ol>
+      <li>Click on Admin, select your Account and Property</li>
+      <li>In the View (third) column, click on View Settings</li>
+      <li>Copy the View ID. It will be an 8-10 character number.</li>
+    </ol>
+- key: google_analytics.access_granted
+  type: checkbox
+  title: Add the ProudCity user
+  label: I have added the ProudCity robot user to my Analytics account
+  help: |
+    <ol>
+      <li>Click on Admin, select your Account</li>
+      <li>In the Account (first) column, click User Management</li>
+      <li>Add the ProudCity robot account <div><code>analytics@my-proudcity.iam.gserviceaccount.com</code></div> with <code>Read &amp; Analyze</code> access</li>
+    </ol>
+docs:
+- title: What is my ProudScore
+  link: https://proudcity.zendesk.com/hc/en-us/articles/115008023087-Analytics-What-is-my-ProudScore-

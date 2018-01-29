@@ -1,0 +1,51 @@
+---
+- key: editor
+  title: Learn about The Editor
+  icon: fa-list-alt
+  link: 
+  video: v2Hm-XkZ0WY
+- key: media
+  title: Add imagery
+  icon: fa-picture-o
+  link: "/wp-admin/upload.php"
+  video: 
+- key: appearance
+  title: Configure appearance
+  icon: fa-paint-brush
+  link: wp-admin/customize.php?return=/wp-admin
+  video: 
+- key: integrations
+  title: Select integrations
+  icon: fa-share-square
+  link: "/wp-admin/admin.php?page=integrations"
+  video: 
+- key: social
+  title: Set up social feed
+  icon: fa-comments
+  link: "/wp-admin/admin.php?page=social"
+  video: 
+- key: home
+  title: Edit homepage
+  icon: fa-th-large
+  link: "/wp-admin/post.php?post=139&action=edit"
+  video: 
+- key: answers
+  title: Add answers
+  icon: fa-list-alt
+  link: "/wp-admin/edit.php?post_type=question"
+  video: rGPs8nPEA4E
+- key: payments
+  title: Set up payments
+  icon: fa-credit-card
+  link: "/wp-admin/edit.php?post_type=payment"
+  video: GfggmaEypdg
+- key: agencies
+  title: Create agencies
+  icon: fa-university
+  link: "/wp-admin/edit.php?post_type=agency"
+  video: gWDzE7O5uro
+- key: forms
+  title: Add forms
+  icon: fa-check-square-o
+  link: "/wp-admin/admin.php?page=wpcf7"
+

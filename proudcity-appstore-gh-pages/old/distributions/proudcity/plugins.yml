@@ -1,0 +1,125 @@
+---
+proudcity:
+- slug: gravityformsstripe
+  icon: fa-credit-card
+  title: Payments
+  teaser: PCI compliant payment transactions for permitting, tickets and more.
+  body: ''
+  contact: true
+- slug: elasticpress
+  icon: fa-search
+  title: Search Plus
+  teaser: Upgraded version includes multi-site search (domains / subdomains), Granicus
+    integration and more.
+  body: ProudCity Search is a robust, type-ahead search that gives visitors instant
+    access to all of your online government content.
+  more: https://proudcity.com/search
+  screenshot:
+  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/search.gif
+  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/04/search-kettering-1024x512.png
+  contact: true
+- slug: onboarding
+  icon: fa-rocket
+  title: Onboarding
+  teaser: Streamline your digital government training and new website launch with
+    the help of a ProudCity Ambassador.
+  body: "<p>Get a designated ProudCity Ambassador who works closely with your team
+    on an accellerated launch timeline (we're talking 30-60 days) and assists in information
+    architecture, project planning, execution, training and launch.</p><p>What you
+    get:</p><ul><li>Designated ProudCity Ambassador who works closely with your team</li><li>Personalized
+    experience tailored to your agency’s needs</li><li>Structured project management
+    support</li><li>Accelerated launch timeline (BETA in 60 days, LIVE 30 days after)</li><li>Digital
+    government best practices training (including new federal ADA guidelines)</li><li>ProudCity
+    platform training to maximize use of best-in-industry features</li><li>Customization
+    support and guidance</li><li>Content strategy and execution plan to help you move
+    to user-first, mobile-first digital service delivery</li><li>Live chat, ticketing
+    customer support</li></ul>"
+  more: https://proudcity.com/onboarding
+  contact: true
+- slug: web
+  default: true
+  icon: fa-list-alt
+  title: Web
+  teaser: Full mobile-friendly website(s), content management system, user administration
+    and more.
+  body: ''
+  more: https://proudcity.com/features
+- slug: wp-proud-actions-app
+  default: true
+  icon: fa-mobile-phone
+  title: Service Center
+  teaser: Full mobile-friendly website(s), content management system, user administration
+    and more.
+  screenshot:
+  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2016/11/proudcity-service-center.png
+  body: An easy way for governments to display digital services on Facebook, as a
+    standalone mobile app or an embedded widget on an existing website.
+  more: https://proudcity.com/service-center
+  admin: "/wp-admin/admin.php?page=service-center"
+- slug: safe
+  default: true
+  icon: fa-lock
+  title: Safe
+  teaser: Continuous free software upgrades, secure cloud-based hosting, backups,
+    disaster recovery and HTTPS encryption.
+  body: ProudCity Safe ensures governments have a holistic approach to continually
+    addressing security protocol and keeping internal operations, and those they serve,
+    safe.
+  more: https://proudcity.com/safe
+- slug: gravityforms
+  default: true
+  icon: fa-file-text-o
+  title: Forms
+  teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
+  screenshot:
+  - https://storage.googleapis.com/proudcity/wwwproudcity/uploads/2017/03/proudcity-forms.gif
+  body: ProudCity Forms makes it easy for governments to create and manage secure,
+    mobile-friendly online forms. Use for Payments (fines, tickets), Permits, Issue
+    reporting, Job applications, Subscriptions, Public record requests and more.
+  more: https://proudcity.com/forms
+integrations:
+- slug: romulus
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
+  title: Roumulus
+  teaser: The Constituent Service Platform. Romulus powers communication, accountability,
+    and better service for local governments.
+  body: Romulus makes it easy to collect the right information from your citizens
+    and route their request to the right department.  Collect interesting insights
+    based on location, data similarities, while maximizing your efficiency dealing
+    with citizen requests.
+  guide: https://proudcity.zendesk.com/hc/en-us/articles/226334587-Adding-a-Romulus-CRM-Form
+- slug: gravityformsmailchimp
+  image: http://www.whitegoodstradeassociation.org/images/Freddie_OG.jpg
+  title: Mailchimp
+  teaser: MailChimp provides email marketing for more than 15 million people globally
+    and is dead-simple to use.
+  body: Automatically add form submissions to MailChimp email lists and more.
+  guide: https://proudcity.zendesk.com/hc/en-us/articles/216379847-Adding-MailChimp-to-your-website
+- slug: gravityformsconstantcontact
+  image: https://tamretail.com/UserDefinedImages/PartnerConstantContactLogo.jpg
+  title: Constant Contact
+  teaser: Constant Contact is a mass email provider.
+  body: Automatically add form submissions to Constant Contact email lists.
+  contact: true
+- slug: wp-proud-seeclickfix
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png"
+  title: SeeClickFix
+  teaser: Issue reporting with a mobile-friendly interface and maps integrated into
+    ProudCity
+  body: SeeClickFix encouraging residents to become active citizens in taking care
+    of and improving their city by reporting non-emergency issue in their neighborhood.
+  contact: true
+  more: https://gov.seeclickfix.com/2016/03/16/seeclickfix-on-proudcity/
+partners:
+- slug: pagefreezer
+  image: https://media.glassdoor.com/sqll/803233/pagefreezer-software-squarelogo-1402421229673.png
+  title: PageFreezer
+  teaser: PageFreezer
+  body: PageFreezer provides automated, daily archiving of website and social media
+    content that collects full metadata, along with a publicly-facing, searchable
+    transparency portal. Social media platforms supported include Facebook, Twitter,
+    Nextdoor, LinkedIn, Tumblr, Google+, Instagram, Pinterest, Flickr, YouTube, Vimeo,
+    Yammer, Chatter and Jabber.
+  more: https://proudcity.com/proudcity-archiving-powered-pagefreezer/
+  contact: Contact us to get started
+

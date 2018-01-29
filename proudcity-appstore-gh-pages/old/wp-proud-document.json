@@ -1,0 +1,27 @@
+{  
+   "name":"Documents",
+   "slug":"wp-proud-document",
+   "tag": "proudcity",
+   "version":"1.0.0",
+   "author":"<a href=\"https:\/\/proudcity.com\">ProudCity<\/a>",
+   "author_profile":"\/\/profiles.wordpress.org\/proudcity",
+   "added":"2016-03-01",
+   "options": [
+   ],
+   "homepage":"",
+   "sections":{  
+      "description":"<p>A searchable library of Documents: PDFs, Word Docs and more with an embedded viewer</p>",
+      "installation":"<ol><li>Add documents with Document Categories</li><li>Add a Document list widget to a Panels Page</li></ol>"
+   },
+   "short_description":"A searchable library of Documents: PDFs, Word Docs and more with an embedded viewer",
+   "download_link":"https://github.com/proudcity/wp-proud-document/archive/1.0.0.zip",
+   "donate_link":"",
+   "banners":{  
+      "high":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg",
+      "low":"https://proudcity.com/wp-content/uploads/2015/12/Optimized-placeit.jpg"
+   },
+   "icons":{  
+      "2x":"//proudcity.github.io/proudcity-appstore/plugins/icons/file.png",
+      "1x":"//proudcity.github.io/proudcity-appstore/plugins/icons/file.png"
+   }
+}

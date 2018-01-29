@@ -1,0 +1,78 @@
+---
+- key: editor
+  title: Learn about The Editor
+  icon: fa-list-alt
+  link: 
+  video: v2Hm-XkZ0WY
+- key: pages
+  title: Create pages
+  icon: fa-file
+  link: "/wp-admin/edit.php?post_type=page"
+  video: 
+- key: answers
+  title: Add answers
+  icon: fa-question
+  link: "/wp-admin/edit.php?post_type=question"
+  video: 
+- key: home
+  title: Edit homepage
+  icon: fa-th-large
+  link: "/wp-admin/post.php?post=139&action=edit"
+  video: 
+- key: agencies
+  title: Create agencies
+  icon: fa-university
+  link: "/wp-admin/edit.php?post_type=agency"
+  video: a3YTmChsYuw
+- key: contacts
+  title: Create contacts
+  icon: fa-users
+  link: "/wp-admin/edit.php?post_type=staff-member"
+- key: forms
+  title: Add forms
+  icon: fa-check-square-o
+  link: "/wp-admin/admin.php?page=wpcf7"
+- key: documents
+  title: Add documents
+  icon:  fa-book
+  link: "/wp-admin/edit.php?post_type=document"
+- key: News
+  title: Post news
+  icon:  fa-newspaper-o
+  link: "/wp-admin/edit.php"
+- key: Events
+  title: Post events
+  icon:  fa-calendar
+  link: "/wp-admin/edit.php?post_type=event"
+- key: payments
+  title: Set up payments
+  icon:  fa-usd
+  link: "/wp-admin/edit.php?post_type=payment"
+  video: nWrBPrTEAbg
+- key: issues
+  title: Set up issues
+  icon:  fa-wrench
+  link: "/wp-admin/edit.php?post_type=issue"
+- key: Jobs
+  title: Create jobs
+  icon:  fa-briefcase
+  link: "/wp-admin/edit.php?post_type=job_listing"
+- key: integrations
+  title: Select integrations
+  icon: fa-share-square
+  link: "/wp-admin/admin.php?page=integrations"
+  video:
+- key: social
+  title: Set up social feed
+  icon: fa-comments
+  link: "/wp-admin/admin.php?page=social"
+  video:
+- key: analytics
+  title: Set up Google Analytics
+  icon: fa-comments
+  dashboardLink: "/addons/analytics/configure"
+- key: launch
+  title: BETA and Launch
+  icon: fa-rocket
+  link: "https://proudcity.zendesk.com/hc/en-us/articles/222351267-Launch-Guide"
+  video: 

@@ -1,0 +1,36 @@
+[ 
+  {
+    "key": "editor",
+    "title": "Learn about The Editor",
+    "icon": "fa-list-alt",
+    "link": null,
+    "video": "v2Hm-XkZ0WY"
+  },
+  {
+    "key": "home",
+    "title": "Edit homepage",
+    "icon": "fa-th-large",
+    "link": "\/wp-admin\/post.php?post=139&action=edit",
+    "video": null
+  },
+  {
+    "key": "appearance",
+    "title": "Configure appearance",
+    "icon": "fa-paint-brush",
+    "link": "wp-admin\/customize.php?return=\/wp-admin",
+    "video": null
+  },
+  {
+    "key": "agencies",
+    "title": "Create agencies",
+    "icon": "fa-university",
+    "link": "\/wp-admin\/edit.php?post_type=agency",
+    "video": "gWDzE7O5uro"
+  },
+  {
+    "key": "forms",
+    "title": "Add forms",
+    "icon": "fa-check-square-o",
+    "link": "\/wp-admin\/admin.php?page=wpcf7"
+  }
+]

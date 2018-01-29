@@ -1,0 +1,29 @@
+{
+  "name": "wpcom-proxy-request",
+  "description": "Proxied cookie-authenticated REST API requests to WordPress.com",
+  "keywords": [
+    "browser",
+    "wpcom",
+    "wordpress",
+    "rest",
+    "api",
+    "cookie"
+  ],
+  "version": "1.0.5",
+  "author": "Automattic, Inc.",
+  "contributors": [
+    "Damian Suarez <rdsuarez@gmail.com>",
+    "Nathan Rajlich <nathan@automattic.com>"
+  ],
+  "repository": "git://github.com/Automattic/wpcom-proxy-request.git",
+  "main": "index.js",
+  "devDependencies": {
+    "browserify": "9.0.3"
+  },
+  "dependencies": {
+    "component-event": "0.1.4",
+    "debug": "~2.2.0",
+    "progress-event": "~1.0.0",
+    "uid": "0.0.2"
+  }
+}

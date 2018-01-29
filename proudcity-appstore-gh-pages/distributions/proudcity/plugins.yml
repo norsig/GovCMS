@@ -1,0 +1,91 @@
+- name: forms
+  slug: gravityformsstripe
+  type: proudcity
+  icon: fa-credit-card
+  title: Payments
+  teaser: PCI compliant payment transactions for permitting, tickets and more.
+- name: search
+  slug: elasticpress
+  type: proudcity
+  icon: fa-search
+  title: Search Plus
+  teaser: Upgraded version includes multi-site search (domains / subdomains), Granicus
+    integration and more.
+- name: onboarding
+  type: proudcity
+  icon: fa-rocket
+  title: Onboarding
+  teaser: Streamline your digital government training and new website launch with
+    the help of a ProudCity Ambassador.
+- name: web
+  type: proudcity
+  default: true
+  icon: fa-list-alt
+  title: Web
+  teaser: Full mobile-friendly website(s), content management system, user administration and more.
+- name: servicecenter
+  slug: wp-proud-actions-app
+  type: proudcity
+  default: true
+  icon: fa-mobile-phone
+  title: Service Center
+  teaser: "Become multi-channel: Facebook page, standalone app, embeddable widget"
+- name: safe
+  type: proudcity
+  default: true
+  icon: fa-lock
+  title: Safe
+  teaser: Continuous free software upgrades, secure cloud-based hosting, backups, disaster recovery and HTTPS encryption.
+- name: forms
+  slug: gravityforms
+  type: proudcity
+  default: true
+  icon: fa-file-text-o
+  title: Forms
+  teaser: Easy-to-build, mobile friendly forms for registrations, payments and more.
+- name: romulus
+  slug: romulus
+  type: integration
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/romulus.png"
+  title: Romulus
+  teaser: The Constituent Service Platform. Romulus powers communication, accountability, and better service for local governments.
+- name: analytics
+  type: integration
+  default: true
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googleanalytics.png"
+  title: Google Analytics
+  teaser: ProudCity Analytics ties in to Google Analytics for deep tracking data.
+- name: mailchimp
+  slug: gravityformsmailchimp
+  type: integration
+  image: //proudcity.github.io/proudcity-appstore/plugins/icons/mailchimp.jpg
+  title: Mailchimp
+  teaser: MailChimp provides email marketing for more than 15 million people globally and is dead-simple to use.
+- name: constantcontact
+  slug: gravityformsconstantcontact
+  type: integration
+  image: https://tamretail.com/UserDefinedImages/PartnerConstantContactLogo.jpg
+  title: Constant Contact
+  teaser: Constant Contact is a mass email provider.
+- name: seeclickfix
+  slug: wp-proud-seeclickfix
+  type: integration
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/seeclickfix.png"
+  title: SeeClickFix
+  teaser: Issue reporting with a mobile-friendly interface and maps integrated into ProudCity.
+- name: googlesheets
+  slug: gravityformszapier
+  type: integration
+  image: "//proudcity.github.io/proudcity-appstore/plugins/icons/googlesheets.png"
+  title: Google Sheets
+  teaser: Save new Gravity Forms submissions to a Google Sheets spreadsheet with Zapier
+- name: pagefreezer
+  type: partner
+  image: //proudcity.github.io/proudcity-appstore/plugins/icons/pagefreezer.png
+  title: PageFreezer
+  teaser: Comply with Open Records Laws by saving archives of your website and social media feeds
+- name: govready
+  type: partner
+  image: //proudcity.github.io/proudcity-appstore/plugins/icons/govready.png
+  title: GovReady
+  teaser: A self-service portal to help teams build and operate compliant IT systems.
