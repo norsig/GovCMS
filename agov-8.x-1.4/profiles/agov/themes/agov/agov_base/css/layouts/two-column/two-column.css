@@ -1,0 +1,1 @@
+.two-column:before{content:'';display:table}.two-column:after{content:'';display:table;clear:both}@media (min-width: 850px){.two-column__left{padding:0px 12.5px;padding:0rem 0.78125rem;float:left;width:67%}}@media (min-width: 850px){.two-column__right{padding:0px 12.5px;padding:0rem 0.78125rem;float:left;width:33%}}

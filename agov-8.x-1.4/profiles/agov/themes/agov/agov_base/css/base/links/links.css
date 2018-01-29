@@ -1,0 +1,1 @@
+:link{word-wrap:break-word}a:focus{outline:2px solid;background-color:transparent}@media print{:link,:visited{text-decoration:underline}a[href]:after{font-size:16px;font-size:1rem;content:" (" attr(href) ")";font-weight:400;text-decoration:none}a[href^='javascript:']:after,a[href^='#']:after{content:''}}
